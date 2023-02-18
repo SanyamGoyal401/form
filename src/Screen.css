@@ -1,0 +1,27 @@
+.container-body{
+    display: flex;
+    width: 90%;
+    max-width: 1500px;
+    margin: auto auto;
+    height: 100%;
+    align-items:center;
+    box-sizing: border-box;
+}
+.text-section{
+    flex: 0.6;
+}
+.header{
+    color: white;
+    font-size: 3em;
+    font-weight: 900;
+
+}
+
+.para{
+    color: white;
+    font-size: 1.2em;
+}
+
+.form{
+    flex: 0.6;
+}
